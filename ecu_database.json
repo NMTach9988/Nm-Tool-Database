@@ -1,5 +1,404 @@
 [
   {
+    "PartCode": "VARIO 160 NEW (2021)\r\n30400-K2SA-N02",
+    "EcmId": "01046B0F01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "CLICK_125_2023 30400 - K2VH - T01",
+    "EcmId": "0101D60D02",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "CLICK_125_2023 30400 - K2VH - T11",
+    "EcmId": "0104DC0D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "PCX-160-2021 \r\n30400 K1ZF - T01",
+    "EcmId": "0103D00D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "ADV150 \r\n30400 - K0WF-T01",
+    "EcmId": "01037C0D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "ADV 160 \r\n30400 - K0W-TA11",
+    "EcmId": "01048E0D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "CLICK 125 \r\n30400 - K60F-T01",
+    "EcmId": "0101D00D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "CLICK 125 \r\n30400 - K60S-T71",
+    "EcmId": "01030B0F03",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "CLICK 125 \r\n30400 - K60S-T73",
+    "EcmId": "01030A0D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "CLICK 150 \r\n30400 - K59K-T01",
+    "EcmId": "0103070D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "CLICK 160 \r\n30400 - K2SF-T01",
+    "EcmId": "01046D0D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "LEAD 125 4V \r\n30400 - K2TA-T02",
+    "EcmId": "0104780D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "LEAD 125 4V 2025 \r\n30400 - K2TG-T21",
+    "EcmId": "0105950D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "LEAD 125 2V \r\n30400 - K12M-J61",
+    "EcmId": "01037C0D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "PCX 150 \r\n30400 - K36S-T31",
+    "EcmId": "0102180D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "PCX 150 \r\n30400 - K36F-T01",
+    "EcmId": "0101990D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "PCX 150 \r\n30400 - K97F-T01",
+    "EcmId": "0102990D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "PCX 160 2021 \r\n30400 - K1ZF-T11",
+    "EcmId": "0103CF0D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "PCX 160 2023 \r\n30400 - K1ZP-T51",
+    "EcmId": "0105050D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "PCX 160 2023 \r\n30400 - K1ZP-T71",
+    "EcmId": "0105040D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "PCX 160 2025 \r\n30400 - K1ZT-TF1",
+    "EcmId": "0105B40D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "PCX 160 2025 \r\n30400 - K1ZT-TC1",
+    "EcmId": "0105B30D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "GIORNO 125 \r\n30400 - K3MF-T01",
+    "EcmId": "01052A0D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "MOOV 110 \r\n30400 - K50A-T02",
+    "EcmId": "0101D60D02",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  }
+   {
+    "PartCode": "ZOOMER X \r\n38770 - K20-T01",
+    "EcmId": "0101C60D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "MSX 125 \r\n38770 - K26-B02",
+    "EcmId": "0102130D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "MSX 125 \r\n38770 - K26-B13",
+    "EcmId": "01000D0D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 110I \r\n38770 - K58-T81",
+    "EcmId": "0102B90D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 125I \r\n38770 - K73-M62",
+    "EcmId": "01034F0D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 125I \r\n38770 - K73-T32",
+    "EcmId": "0102580D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 125I \r\n38770 - K7YZ-T641",
+    "EcmId": "0101B30D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "DREAM SUPERCLUB 110 I \r\n38770 - KZV-A61",
+    "EcmId": "0101BA0D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "CRF300L \r\n38770 - K1T-T01",
+    "EcmId": "0104070D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "CRF300L 2023\r\n38770 - K1T-TA1",
+    "EcmId": "0104C60D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "CRF300L 2025 \r\n38770 - K1T-TM2",
+    "EcmId": "0105D20D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "MONKEY  \r\n38770 - K0G-902",
+    "EcmId": "01030E0D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "MONKEY  \r\n38770 - K0F-T01-A01",
+    "EcmId": "0102CA0D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "MONKEY  \r\n38770 - K0F-T61",
+    "EcmId": "01041F0D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "MONKEY  \r\n38770 - K0G-T22",
+    "EcmId": "0104220D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "CT 125  \r\n38770 - K2E-T02",
+    "EcmId": "0103F90D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "DAX 125  \r\n38770 - K2W-T01",
+    "EcmId": "0104540D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "CRF 250  \r\n38770 - KZZ-L41-j01",
+    "EcmId": "0102360D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "38770 - K26-G01",
+    "EcmId": "0103EB0D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "CBR 150R  \r\n38770 - K94-T02",
+    "EcmId": "0102A00D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "CBR 300  \r\n38770 - K33-T53",
+    "EcmId": "0101740D01",
+    "StartOffset": "E0000",
+    "ChecksumOffset": "B000",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "CRF 250   \r\n38770 - KZZ-901",
+    "EcmId": "01011A0D21",
+    "StartOffset": "E0000",
+    "ChecksumOffset": "B000",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "CRF 250  \r\n38770 - KZZ-902",
+    "EcmId": "01011A0D01",
+    "StartOffset": "E0000",
+    "ChecksumOffset": "B000",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "CRF 250  \r\n38770 - KZZ-903",
+    "EcmId": "01011A0D02",
+    "StartOffset": "E0000",
+    "ChecksumOffset": "B000",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "38770 - K33-951",
+    "EcmId": "01019E0D01",
+    "StartOffset": "E0000",
+    "ChecksumOffset": "B000",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "38770 - K87-T52",
+    "EcmId": "01025A0D01",
+    "StartOffset": "E0000",
+    "ChecksumOffset": "B000",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "FORZA 300 \r\n 38770 - K40-901",
+    "EcmId": "0101290D01",
+    "StartOffset": "0",
+    "ChecksumOffset": "7FFF8",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "FORZA 300 \r\n 38770 - K0B-T01",
+    "EcmId": "0102E50D01",
+    "StartOffset": "0",
+    "ChecksumOffset": "7FFF8",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "CL300 \r\n 38770 - K3S-TA2",
+    "EcmId": "0104910D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "REBEL 300 \r\n 38770 - K87-T52",
+    "EcmId": "01025A0D01",
+    "StartOffset": "E0000",
+    "ChecksumOffset": "B000",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "REBEL 300 \r\n 38770 - K87-T81",
+    "EcmId": "0103780D01",
+    "StartOffset": "E0000",
+    "ChecksumOffset": "B000",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 110I S3 \r\n 38770 - KWW-601",
+    "EcmId": "0100B20D01",
+    "StartOffset": "0",
+    "ChecksumOffset": "7FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 125I S3\r\n 38770 - KYL-T01",
+    "EcmId": "0100DB0D01",
+    "StartOffset": "0",
+    "ChecksumOffset": "7FEF",
+    "Category": "Keihin"
+  }
+  {
     "PartCode": "38770-K2F-N01",
     "EcmId": "0104080F01",
     "StartOffset": "0",
@@ -21,59 +420,262 @@
     "Category": "Keihin"
   },
   {
-    "PartCode": "SCOOPPY I 38770-K2F-T01",
+    "PartCode": "SCOOPPY I\r\n38770 - K2F-T01",
     "EcmId": "0103BC0D01",
     "StartOffset": "0",
     "ChecksumOffset": "3FFF8",
     "Category": "Keihin"
   },
   {
-    "PartCode": "SCOOPPY I 38770-K2F-T21",
+    "PartCode": "SCOOPPY I\r\n38770 - K2F-T21",
     "EcmId": "0104140D01",
     "StartOffset": "0",
     "ChecksumOffset": "3FFF8",
     "Category": "Keihin"
   },
   {
-    "PartCode": "WAVE 110I 38770-K03-H01",
+    "PartCode": "SCOOPPY I\r\n38770 - K2F-T81",
+    "EcmId": "0104F30D01",
+    "StartOffset": "0",
+    "ChecksumOffset": "3FFF8",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "SCOOPPY I\r\n38770 - K2F-T91",
+    "EcmId": "0104F20D01",
+    "StartOffset": "0",
+    "ChecksumOffset": "3FFF8",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "SCOOPPY I\r\n38770 - K2F-TB1",
+    "EcmId": "0104F50D01",
+    "StartOffset": "0",
+    "ChecksumOffset": "3FFF8",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "SCOOPPY I\r\n38770 - K2F-TD1",
+    "EcmId": "0105AB0D02",
+    "StartOffset": "0",
+    "ChecksumOffset": "3FFF8",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "SCOOPPY I\r\n38770 - K2F-TF1",
+    "EcmId": "0105AA0D02",
+    "StartOffset": "0",
+    "ChecksumOffset": "3FFF8",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "SCOOPPY I\r\n38770 - K93-T01",
+    "EcmId": "0102810D01",
+    "StartOffset": "0",
+    "ChecksumOffset": "3FFF8",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "SCOOPPY I\r\n38770 - K93-T21",
+    "EcmId": "0102800D01",
+    "StartOffset": "0",
+    "ChecksumOffset": "3FFF8",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 110I \r\n38770 - K03-T61",
+    "EcmId": "0101610D01",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "SCOOPPY I \r\n38770 - K16-901",
+    "EcmId": "0101180D01",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "SCOOPPY I \r\n38770 - K16-B01",
+    "EcmId": "0101850D01",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "ZOOMER X  \r\n38770 - K20-901",
+    "EcmId": "0101350D01",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "MSX 125 \r\n38770 - K26-901",
+    "EcmId": "0101350D01",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "MSX 125 \r\n38770 - K26-911",
+    "EcmId": "0101350501",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "MSX 125 \r\n38770 - K26-921",
+    "EcmId": "0101350601",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "MSX 125 \r\n38770 - K26-931",
+    "EcmId": "0101350101",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "CLICK 110 \r\n38770 - KVB-S53",
+    "EcmId": "0100DF0D02",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 110I \r\n38770 - KWW-642",
+    "EcmId": "0100CE0D01",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 110I \r\n38770 - KWW-643",
+    "EcmId": "0100CE0D02",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 110I \r\n38770 - KWW-C52",
+    "EcmId": "0100FB0101",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 125I \r\n38770 - KYZ-T03",
+    "EcmId": "01010E0D01",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "DREAM 110I \r\n38770 - KZV-T02",
+    "EcmId": "0101050D01",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "DREAM 110I \r\n38770 - KZV-T03",
+    "EcmId": "01010E0D01",
+    "StartOffset": "4000",
+    "ChecksumOffset": "9FEF",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 110I 2024 \r\n38770 - K2J-TH1",
+    "EcmId": "0105550D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 110I 2021-2022 \r\n38770 - K2J-T01",
+    "EcmId": "01040F0D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "DREAM 110I 2024 \r\n38770 - K1M-T31",
+    "EcmId": "0105260D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 110I \r\n38770 - K58-TC1",
+    "EcmId": "01034C0D11",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 110I \r\n38770 - K58-TC2",
+    "EcmId": "01034C0D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 125I \r\n38770 - K76-T62",
+    "EcmId": "0102B50D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "CT 125I \r\n38770 - K2E-T11",
+    "EcmId": "01047E0D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 110I \r\n38770 - K03-A61",
+    "EcmId": "0101BA0D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 110I \r\n38770 - K03-H01",
     "EcmId": "0101880D01",
     "StartOffset": "8000",
     "ChecksumOffset": "0",
     "Category": "Keihin"
   },
   {
-    "PartCode": "PCX 160 2023 30400-K1ZP-T71",
-    "EcmId": "0105040D01",
-    "StartOffset": "auto",
-    "ChecksumOffset": "auto",
-    "Category": "Shindengen"
+    "PartCode": "WAVE 125I 2024 \r\n38770 - K3F-T01",
+    "EcmId": "01047B0D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
   },
   {
-    "PartCode": "PCX 160 2025 30400-K1ZT-TF1",
-    "EcmId": "0105B40D01",
-    "StartOffset": "auto",
-    "ChecksumOffset": "auto",
-    "Category": "Shindengen"
+    "PartCode": "WAVE 125I 2024 \r\n38770 - K3F-T41",
+    "EcmId": "0106270D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
   },
   {
-    "PartCode": "PCX 160 2025 30400-K1ZT-TC1",
-    "EcmId": "0105B30D01",
-    "StartOffset": "auto",
-    "ChecksumOffset": "auto",
-    "Category": "Shindengen"
+    "PartCode": "WAVE 125I 2024 \r\n38770 - K3F-T61",
+    "EcmId": "0106280D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
   },
   {
-    "PartCode": "GIORNO 125 30400-K3MF-T01",
-    "EcmId": "01052A0D01",
-    "StartOffset": "auto",
-    "ChecksumOffset": "auto",
-    "Category": "Shindengen"
-  },
-  {
-    "PartCode": "MOOV 110 30400-K50A-T02",
-    "EcmId": "0101D60D02",
-    "StartOffset": "auto",
-    "ChecksumOffset": "auto",
-    "Category": "Shindengen"
+    "PartCode": "SCOOPPY I 110 \r\n38770 - K16-B61",
+    "EcmId": "0101B00D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
   }
 ]
