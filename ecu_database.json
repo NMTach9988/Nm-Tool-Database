@@ -1,0 +1,79 @@
+[
+  {
+    "PartCode": "38770-K2F-N01",
+    "EcmId": "0104080F01",
+    "StartOffset": "0",
+    "ChecksumOffset": "3FFF8",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "38770-MKK-D02",
+    "EcmId": "0102A40101",
+    "StartOffset": "0",
+    "ChecksumOffset": "FFFF8",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "K73-T61 WAVE125ILED",
+    "EcmId": "01033E0D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "SCOOPPY I 38770-K2F-T01",
+    "EcmId": "0103BC0D01",
+    "StartOffset": "0",
+    "ChecksumOffset": "3FFF8",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "SCOOPPY I 38770-K2F-T21",
+    "EcmId": "0104140D01",
+    "StartOffset": "0",
+    "ChecksumOffset": "3FFF8",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "WAVE 110I 38770-K03-H01",
+    "EcmId": "0101880D01",
+    "StartOffset": "8000",
+    "ChecksumOffset": "0",
+    "Category": "Keihin"
+  },
+  {
+    "PartCode": "PCX 160 2023 30400-K1ZP-T71",
+    "EcmId": "0105040D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "PCX 160 2025 30400-K1ZT-TF1",
+    "EcmId": "0105B40D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "PCX 160 2025 30400-K1ZT-TC1",
+    "EcmId": "0105B30D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "GIORNO 125 30400-K3MF-T01",
+    "EcmId": "01052A0D01",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  },
+  {
+    "PartCode": "MOOV 110 30400-K50A-T02",
+    "EcmId": "0101D60D02",
+    "StartOffset": "auto",
+    "ChecksumOffset": "auto",
+    "Category": "Shindengen"
+  }
+]
