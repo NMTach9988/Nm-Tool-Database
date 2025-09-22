@@ -672,6 +672,13 @@
         "Category": "Keihin"
     },
     {
+        "PartCode": "WAVE 125I S3 \r\n38770 - KPH-702",
+        "EcmId": "01001F0D02",
+        "StartOffset": "0",
+        "ChecksumOffset": "7FEF",
+        "Category": "Keihin"
+    },
+    {
         "PartCode": "SCOOPPY I 110 \r\n38770 - K16-B61",
         "EcmId": "0101B00D01",
         "StartOffset": "8000",
@@ -679,6 +686,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
