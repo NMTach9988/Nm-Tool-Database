@@ -8,7 +8,7 @@
     },
     {
         "PartCode": "CILCK 150 (2018)\r\n30400-K59K-T11",
-        "EcmId": "010370D01",
+        "EcmId": "0103070D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
         "Category": "Shindengen"
@@ -693,6 +693,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
