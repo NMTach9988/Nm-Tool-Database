@@ -7,13 +7,6 @@
         "Category": "Shindengen"
     },
     {
-        "PartCode": "CILCK 150 (2018)\r\n30400-K59K-T11",
-        "EcmId": "0103070D01",
-        "StartOffset": "auto",
-        "ChecksumOffset": "auto",
-        "Category": "Shindengen"
-    },
-    {
         "PartCode": "CLICK_125_2023\r\n30400 - K2VH - T01",
         "EcmId": "0101D60D02",
         "StartOffset": "auto",
@@ -70,7 +63,7 @@
         "Category": "Shindengen"
     },
     {
-        "PartCode": "CLICK 150\r\n30400 - K59K-T01",
+        "PartCode": "CLICK 150\r\n30400 - K59K-T11",
         "EcmId": "0103070D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
@@ -693,6 +686,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
