@@ -35,7 +35,7 @@
         "Category": "Shindengen"
     },
     {
-        "PartCode": "ADV 160\r\n30400 - K0W-TA11",
+        "PartCode": "ADV 160\r\n30400 - K0W-TA1",
         "EcmId": "01048E0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
@@ -210,7 +210,7 @@
         "Category": "Keihin"
     },
     {
-        "PartCode": "WAVE 125I \r\n38770 - K7YZ-T641",
+        "PartCode": "WAVE 125I \r\n38770 - KYZ-T41",
         "EcmId": "0101B30D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
@@ -287,7 +287,7 @@
         "Category": "Keihin"
     },
     {
-        "PartCode": "CRF 250\r\n38770 - KZZ-L41-j01",
+        "PartCode": "CRF 250\r\n38770 - KZZ-L41-J01",
         "EcmId": "0102360D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
@@ -413,7 +413,7 @@
         "Category": "Keihin"
     },
     {
-        "PartCode": "K73-T61 WAVE125ILED",
+        "PartCode": "WAVE125I LED \r\n38770-K73-T61",
         "EcmId": "01033E0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
@@ -595,7 +595,7 @@
         "Category": "Keihin"
     },
     {
-        "PartCode": "WAVE 110I 2021-2022 \r\n38770 - K2J-T01",
+        "PartCode": "WAVE 110I 2021 \r\n38770 - K2J-T01",
         "EcmId": "01040F0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
@@ -686,6 +686,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
