@@ -350,7 +350,7 @@
         "Category": "Keihin"
     },
     {
-        "PartCode": "FORZA 300\r\n 38770 - K40-901",
+        "PartCode": "FORZA 300\r\n 38770 - K04-701",
         "EcmId": "0101290D01",
         "StartOffset": "0",
         "ChecksumOffset": "7FFF8",
@@ -359,8 +359,8 @@
     {
         "PartCode": "FORZA 300\r\n 38770 - K0B-T01",
         "EcmId": "0102E50D01",
-        "StartOffset": "0",
-        "ChecksumOffset": "7FFF8",
+        "StartOffset": "E0000",
+        "ChecksumOffset": "B000",
         "Category": "Keihin"
     },
     {
@@ -686,6 +686,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
