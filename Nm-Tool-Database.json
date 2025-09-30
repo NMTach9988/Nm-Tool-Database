@@ -644,7 +644,7 @@
         "Category": "Keihin"
     },
     {
-        "PartCode": "WAVE 110I 38770 - K03-H01",
+        "PartCode": "WAVE 110I \r\n38770 - K03-H01",
         "EcmId": "0101880D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
@@ -686,6 +686,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
