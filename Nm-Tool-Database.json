@@ -197,7 +197,7 @@
     },
     {
         "PartCode": "WAVE 125I\r\n38770 - K73-M62",
-        "EcmId": "01034F0D01",
+        "EcmId": "01034F1801",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
         "Category": "Keihin"
@@ -686,6 +686,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
