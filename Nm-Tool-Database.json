@@ -399,13 +399,6 @@
         "Category": "Keihin"
     },
     {
-        "PartCode": "38770-K2F-N01",
-        "EcmId": "0104080F01",
-        "StartOffset": "0",
-        "ChecksumOffset": "3FFF8",
-        "Category": "Keihin"
-    },
-    {
         "PartCode": "38770-MKK-D02",
         "EcmId": "0102A40101",
         "StartOffset": "0",
@@ -421,7 +414,7 @@
     },
     {
         "PartCode": "SCOOPPY I\r\n38770 - K2F-T01",
-        "EcmId": "0103BC0D01",
+        "EcmId": "0104080F01",
         "StartOffset": "0",
         "ChecksumOffset": "3FFF8",
         "Category": "Keihin"
@@ -686,6 +679,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
