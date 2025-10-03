@@ -196,7 +196,7 @@
         "Category": "Keihin"
     },
     {
-        "PartCode": "WAVE 125I\r\n38770 - K73-M62",
+        "PartCode": "WAVE 110I\r\n38770 - K58-TC2",
         "EcmId": "01034F1801",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
@@ -414,7 +414,7 @@
     },
     {
         "PartCode": "SCOOPY I\r\n38770 - K2F-T01",
-        "EcmId": "0104080F01",
+        "EcmId": "0103BC0D01",
         "StartOffset": "0",
         "ChecksumOffset": "3FFF8",
         "Category": "Keihin"
@@ -679,6 +679,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
