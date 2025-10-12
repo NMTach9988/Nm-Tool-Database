@@ -266,6 +266,13 @@
         "Category": "Keihin"
     },
     {
+        "PartCode": "MONKEY 125\r\n38770 - K0F-T01",
+        "EcmId": "0102CA0D01",
+        "StartOffset": "8000",
+        "ChecksumOffset": "0",
+        "Category": "Keihin"
+    },
+    {
         "PartCode": "MONKEY 125\r\n38770 - K0G-T22",
         "EcmId": "0104220D01",
         "StartOffset": "8000",
@@ -287,8 +294,22 @@
         "Category": "Keihin"
     },
     {
-        "PartCode": "CRF 250\r\n38770 - KZZ-L41-J01",
+        "PartCode": "CRF 250\r\n38770 - KZZ-J01",
         "EcmId": "0102360D01",
+        "StartOffset": "8000",
+        "ChecksumOffset": "0",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CRF 250\r\n38770 - KZZ-L41",
+        "EcmId": "0102360F11",
+        "StartOffset": "8000",
+        "ChecksumOffset": "0",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CRF 250\r\n38770 - KZZ-L81",
+        "EcmId": "0102360101",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
         "Category": "Keihin"
@@ -296,6 +317,13 @@
     {
         "PartCode": "38770 - K26-G01",
         "EcmId": "0103EB0D01",
+        "StartOffset": "8000",
+        "ChecksumOffset": "0",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "38770 - K26-C01",
+        "EcmId": "0102570601",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
         "Category": "Keihin"
@@ -658,6 +686,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
