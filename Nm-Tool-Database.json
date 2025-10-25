@@ -273,7 +273,7 @@
         "Category": "Keihin"
     },
     {
-        "PartCode": "MONKEY 125\r\n38770 - K0G-T22",
+        "PartCode": "C 125\r\n38770 - K0G-T22",
         "EcmId": "0104220D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
@@ -686,6 +686,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
