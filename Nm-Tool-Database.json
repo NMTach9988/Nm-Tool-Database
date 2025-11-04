@@ -651,8 +651,15 @@
         "Category": "Keihin"
     },
     {
-        "PartCode": "WAVE 125I 2024 \r\n38770 - K3F-T01",
+        "PartCode": "WAVE 125I 2024 \r\n38770 - K73-M62",
         "EcmId": "01034F1801",
+        "StartOffset": "8000",
+        "ChecksumOffset": "0",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "WAVE 125I 2024 \r\n38770 - K3F-T01",
+        "EcmId": "01047B0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
         "Category": "Keihin"
@@ -693,6 +700,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
