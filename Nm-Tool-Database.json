@@ -168,6 +168,13 @@
         "Category": "Shindengen"
     },
     {
+        "PartCode": "ZOOMER X\r\n38770 - K20J-T21",
+        "EcmId": "0101FF0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Shindengen"
+    },
+    {
         "PartCode": "ZOOMER X\r\n38770 - K20-T01",
         "EcmId": "0101C60D01",
         "StartOffset": "8000",
@@ -707,6 +714,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
