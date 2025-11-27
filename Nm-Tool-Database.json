@@ -693,6 +693,13 @@
         "Category": "Keihin"
     },
     {
+        "PartCode": "DREAM 2025\r\n38770 - K1M-T41",
+        "EcmId": "01062D0D01",
+        "StartOffset": "8000",
+        "ChecksumOffset": "0",
+        "Category": "Keihin"
+    },
+    {
         "PartCode": "WAVE 125I S3 \r\n38770 - KPH-702",
         "EcmId": "01001F0D02",
         "StartOffset": "0",
@@ -714,6 +721,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
