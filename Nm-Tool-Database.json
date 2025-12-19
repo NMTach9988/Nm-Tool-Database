@@ -658,6 +658,13 @@
         "Category": "Keihin"
     },
     {
+        "PartCode": "CT 125I \r\n38770 - K2E-T32",
+        "EcmId": "0105EB0D02",
+        "StartOffset": "8000",
+        "ChecksumOffset": "0",
+        "Category": "Keihin"
+    },
+    {
         "PartCode": "WAVE 110I \r\n38770 - K03-H01",
         "EcmId": "0101880D01",
         "StartOffset": "8000",
@@ -721,6 +728,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
