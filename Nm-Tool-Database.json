@@ -645,14 +645,14 @@
     },
     {
         "PartCode": "CT 125I \r\n38770 - K2E-T11",
-        "EcmId": "0105EB0D01",
+        "EcmId": "01047E0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
         "Category": "Keihin"
     },
     {
         "PartCode": "CT 125I \r\n38770 - K2E-T31",
-        "EcmId": "01047E0D01",
+        "EcmId": "0105EB0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
         "Category": "Keihin"
@@ -721,6 +721,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
