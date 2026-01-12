@@ -727,7 +727,15 @@
         "ChecksumOffset": "0",
         "Category": "Keihin"
     }
+    {
+        "PartCode": "CBR650 \r\n38770 - MKN-T11",
+        "EcmId": "01031A0D01",
+        "StartOffset": "0",
+        "ChecksumOffset": "7FFF8",
+        "Category": "Keihin"
+    }
 ]
+
 
 
 
