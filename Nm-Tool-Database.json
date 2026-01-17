@@ -50,14 +50,14 @@
     },
     {
         "PartCode": "CLICK 125\r\n30400 - K60S-T71",
-        "EcmId": "01030B0F03",
+        "EcmId": "01030A0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
         "Category": "Shindengen"
     },
     {
         "PartCode": "CLICK 125\r\n30400 - K60S-T73",
-        "EcmId": "01030A0D01",
+        "EcmId": "01030B0F03",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
         "Category": "Shindengen"
@@ -735,6 +735,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
