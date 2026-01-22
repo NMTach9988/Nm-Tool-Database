@@ -21,6 +21,13 @@
         "Category": "Shindengen"
     },
     {
+        "PartCode": "LEAD125-4V-2026\r\n30400 - K2TK - T51",
+        "EcmId": "0106900D11",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Shindengen"
+    },
+    {
         "PartCode": "PCX-160-2021\r\n30400 K1ZF - T01",
         "EcmId": "0103D00D01",
         "StartOffset": "auto",
@@ -735,6 +742,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
