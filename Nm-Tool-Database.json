@@ -91,13 +91,6 @@
         "Category": "Shindengen"
     },
     {
-        "PartCode": "LEAD 125 2V\r\n30400 - K12M-J61",
-        "EcmId": "01037C0D01",
-        "StartOffset": "auto",
-        "ChecksumOffset": "auto",
-        "Category": "Shindengen"
-    },
-    {
         "PartCode": "PCX 150\r\n30400 - K36S-T31",
         "EcmId": "0102180D01",
         "StartOffset": "auto",
@@ -763,6 +756,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
