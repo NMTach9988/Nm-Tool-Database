@@ -644,6 +644,13 @@
         "Category": "Keihin"
     },
     {
+        "PartCode": "DREAM 110I 2024 \r\n38770 - K1M-T01",
+        "EcmId": "0103FAD01",
+        "StartOffset": "8000",
+        "ChecksumOffset": "0",
+        "Category": "Keihin"
+    },
+    {
         "PartCode": "WAVE 110I \r\n38770 - K58-TC1",
         "EcmId": "01034C0D11",
         "StartOffset": "8000",
@@ -756,6 +763,7 @@
         "Category": "Keihin"
     }
 ]
+
 
 
 
