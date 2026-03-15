@@ -21,6 +21,13 @@
         "Category": "Shindengen"
     },
     {
+        "PartCode": "LEAD_125_2V\r\n30400 - K12M - J61",
+        "EcmId": "0103960601",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Shindengen"
+    },
+    {
         "PartCode": "LEAD125-4V-2026\r\n30400 - K2TK - T51",
         "EcmId": "0106900D11",
         "StartOffset": "auto",
