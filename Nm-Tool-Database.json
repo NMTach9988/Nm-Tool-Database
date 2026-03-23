@@ -140,6 +140,13 @@
         "Category": "Shindengen"
     },
     {
+        "PartCode": "PCX 160 2025\r\n30400 - K1ZT-TF2",
+        "EcmId": "0105B40D02",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Shindengen"
+    },
+    {
         "PartCode": "PCX 160 2025\r\n30400 - K1ZT-TC1",
         "EcmId": "0105B30D01",
         "StartOffset": "auto",
