@@ -455,6 +455,13 @@
         "Category": "Keihin"
     },
     {
+        "PartCode": "SCOOPY 110I S3\r\n 38770 - KYT-901",
+        "EcmId": "010089D01",
+        "StartOffset": "0",
+        "ChecksumOffset": "7FEF",
+        "Category": "Keihin"
+    },
+    {
         "PartCode": "38770-MKK-D02",
         "EcmId": "0102A40101",
         "StartOffset": "0",
