@@ -371,6 +371,13 @@
         "Category": "Keihin"
     },
     {
+        "PartCode": "CBR 300\r\n38770 - K0A-T11",
+        "EcmId": "0102B70D02",
+        "StartOffset": "8000",
+        "ChecksumOffset": "0",
+        "Category": "Keihin"
+    },
+    {
         "PartCode": "CRF 250\r\n38770 - KZZ-901",
         "EcmId": "01011A0D21",
         "StartOffset": "E0000",
