@@ -364,6 +364,13 @@
         "Category": "Keihin"
     },
     {
+        "PartCode": "CBR 150R\r\n38770 - K45-TA1",
+        "EcmId": "0103250D01",
+        "StartOffset": "8000",
+        "ChecksumOffset": "0",
+        "Category": "Keihin"
+    },
+    {
         "PartCode": "CBR 300\r\n38770 - K33-T53",
         "EcmId": "0101740D02",
         "StartOffset": "E0000",
