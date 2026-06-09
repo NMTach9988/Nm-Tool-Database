@@ -777,6 +777,13 @@
         "Category": "Keihin"
     },
     {
+        "PartCode": "CBR 500R\r\n30400 - MJW-T11",
+        "EcmId": "0101DD0D01",
+        "StartOffset": "0",
+        "ChecksumOffset": "3FFF8",
+        "Category": "Keihin"
+    },
+    {
         "PartCode": "CBR650 \r\n38770 - MKN-T11",
         "EcmId": "01031A0D01",
         "StartOffset": "0",
