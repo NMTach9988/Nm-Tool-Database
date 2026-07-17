@@ -14,6 +14,13 @@
         "Category": "Shindengen"
     },
     {
+        "PartCode": "CLICK_125_2023\r\n30400 - K2VH - T01",
+        "EcmId": "0104DB0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Shindengen"
+    },
+    {
         "PartCode": "LEAD_125_2V\r\n30400 - K12M - J61",
         "EcmId": "0103960601",
         "StartOffset": "auto",
