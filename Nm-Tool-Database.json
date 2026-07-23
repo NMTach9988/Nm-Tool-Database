@@ -49,6 +49,13 @@
         "Category": "Shindengen"
     },
     {
+        "PartCode": "ADV 160\r\n30400 - K0WX-TB1",
+        "EcmId": "0106130D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Shindengen"
+    },
+    {
         "PartCode": "CLICK 125\r\n30400 - K60F-T01",
         "EcmId": "0101D00D01",
         "StartOffset": "auto",
