@@ -7,6 +7,34 @@
         "Category": "Shindengen"
     },
     {
+        "PartCode": "CLICK_125\r\n30400 - KZR - C11",
+        "EcmId": "0100AF0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Shindengen"
+    },
+    {
+        "PartCode": "CLICK_125\r\n30400 - KZRF - 701",
+        "EcmId": "0100FD0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Shindengen"
+    },
+    {
+        "PartCode": "CLICK_125\r\n30400 - KZRF - 702",
+        "EcmId": "0100FE0D02",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Shindengen"
+    },
+    {
+        "PartCode": "CLICK_125\r\n30400 - KZRN - C01",
+        "EcmId": "00101BD0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Shindengen"
+    },
+    {
         "PartCode": "CLICK_125_2023\r\n30400 - K2VH - T11",
         "EcmId": "0104DC0D01",
         "StartOffset": "auto",
