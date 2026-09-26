@@ -315,13 +315,6 @@
         "Category": "Keihin"
     },
     {
-        "PartCode": "MONKEY 125\r\n38770 - K0F-T01-A01",
-        "EcmId": "0102CA0D01",
-        "StartOffset": "8000",
-        "ChecksumOffset": "0",
-        "Category": "Keihin"
-    },
-    {
         "PartCode": "MONKEY 125\r\n38770 - K0F-T61",
         "EcmId": "01041F0D01",
         "StartOffset": "8000",
