@@ -838,6 +838,13 @@
         "StartOffset": "0",
         "ChecksumOffset": "7FFF8",
         "Category": "Keihin"
+    },
+    {
+        "PartCode": "FORZA350 \r\n38770 - K1B-T61",
+        "EcmId": "01058F0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
     }
 ]
 
