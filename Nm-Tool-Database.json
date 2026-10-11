@@ -840,12 +840,62 @@
         "Category": "Keihin"
     },
     {
+        "PartCode": "FORZA350 \r\n38770 - K1B-T01",
+        "EcmId": "0103BC0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "FORZA350 \r\n38770 - K1B-T02",
+        "EcmId": "0103BC0D02",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "FORZA350 \r\n38770 - K1B-T21",
+        "EcmId": "0104B50D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
         "PartCode": "FORZA350 \r\n38770 - K1B-T61",
         "EcmId": "01058F0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
         "Category": "Keihin"
+    },
+    {
+        "PartCode": "FORZA350 \r\n38770 - K1B-T21",
+        "EcmId": "0104B50D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "ADV350 \r\n38770 - K2L-T01",
+        "EcmId": "0104350D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "ADV350 \r\n38770 - K2L-T21",
+        "EcmId": "0105070D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
     }
+    {
+        "PartCode": "ADV350 \r\n38770 - K2L-T62",
+        "EcmId": "0105EE0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    
 ]
 
 
