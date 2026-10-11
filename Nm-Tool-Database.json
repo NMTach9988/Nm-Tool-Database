@@ -887,14 +887,14 @@
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
         "Category": "Keihin"
-    }
+    },
     {
         "PartCode": "ADV350 \r\n38770 - K2L-T62",
         "EcmId": "0105EE0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
         "Category": "Keihin"
-    },
+    }
     
 ]
 
