@@ -505,7 +505,7 @@
     },
     {
         "PartCode": "CBR 250R S3\r\n 38770 - KYJ-901",
-        "EcmId": "0100B0D01",
+        "EcmId": "0100B80D01",
         "StartOffset": "0",
         "ChecksumOffset": "DFEF",
         "Category": "Keihin"
