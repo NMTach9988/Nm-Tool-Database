@@ -504,6 +504,13 @@
         "Category": "Keihin"
     },
     {
+        "PartCode": "CBR 250R S3\r\n 38770 - KYJ-901",
+        "EcmId": "0100B80F01",
+        "StartOffset": "0",
+        "ChecksumOffset": "DFEF",
+        "Category": "Keihin"
+    },
+    {
         "PartCode": "WAVE 125I S3\r\n 38770 - KWB-601",
         "EcmId": "0100800D01",
         "StartOffset": "0",
