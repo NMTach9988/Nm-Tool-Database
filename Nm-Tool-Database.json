@@ -7,7 +7,7 @@
         "Category": "Shindengen"
     },
     {
-        "PartCode": "CLICK_125\r\n30400 - KZR - C11",
+        "PartCode": "CLICK_125\r\n30400 - KZRN - C11",
         "EcmId": "0100AF0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
@@ -898,6 +898,118 @@
     {
         "PartCode": "ADV350 \r\n38770 - K2L-T62",
         "EcmId": "0105EE0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR650 E-CLUTCH \r\n38770 - MKY-TE3",
+        "EcmId": "0105880D05",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR500X \r\n38770 - MKP-TQ2",
+        "EcmId": "01042E0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR500X \r\n38770 - MKP-T81",
+        "EcmId": "01032F0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR500X \r\n38770 - MKP-T41",
+        "EcmId": "01032E0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR650F \r\n38770 - MKN-T11",
+        "EcmId": "01031A0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR650F \r\n38770 - MKN-HB2",
+        "EcmId": "0103BE0E01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR500R \r\n38770 - MJW-T11",
+        "EcmId": "0101DD0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR650R \r\n38770 - MJE-TB1",
+        "EcmId": "01027D0D01",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR650R \r\n38770 - MJE-T52",
+        "EcmId": "01019C0D02",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR650R \r\n38770 - MJE-T15",
+        "EcmId": "01014E0D03",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR650R \r\n38770 - MJE-G52",
+        "EcmId": "01019C1201",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR650R \r\n38770 - MFN-F01",
+        "EcmId": "01006A0301",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR650R \r\n38770 - MFN-D01",
+        "EcmId": "01006A0101",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR1000R \r\n38770 - MJE-D41",
+        "EcmId": "01019C0101",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+    {
+        "PartCode": "CBR600R \r\n38770 - MFJ-J42",
+        "EcmId": "01007C0601",
+        "StartOffset": "auto",
+        "ChecksumOffset": "auto",
+        "Category": "Keihin"
+    },
+     {
+        "PartCode": "NX500 \r\n38770 - MLR-T81",
+        "EcmId": "0105250D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
         "Category": "Keihin"
