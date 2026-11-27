@@ -596,7 +596,8 @@
         "EcmId": "0102A40101",
         "StartOffset": "0",
         "ChecksumOffset": "FFFF8",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 1024
     },
     {
         "PartCode": "WAVE125I LED \r\n38770-K73-T61",
