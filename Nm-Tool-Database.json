@@ -11,21 +11,24 @@
         "EcmId": "0100AF0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "CLICK_125\r\n30400 - KZRF - 701",
         "EcmId": "0100FD0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "CLICK_125\r\n30400 - KZRF - 702",
         "EcmId": "0100FE0D02",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "CLICK_125\r\n30400 - KZRN - C01",
@@ -39,14 +42,16 @@
         "EcmId": "0104DC0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "CLICK_125_2023\r\n30400 - K2VH - T01",
         "EcmId": "0104DB0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "LEAD_125_2V\r\n30400 - K12M - J61",
@@ -60,42 +65,48 @@
         "EcmId": "0106900D11",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "ADV150\r\n30400 - K0WF-T01",
         "EcmId": "01037C0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "ADV 160\r\n30400 - K0WM-TA1",
         "EcmId": "01048E0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "ADV 160\r\n30400 - K0WX-TB1",
         "EcmId": "0106130D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "CLICK 125\r\n30400 - K60F-T01",
         "EcmId": "0101D00D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "CLICK 125\r\n30400 - K60S-T71",
         "EcmId": "01030A0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "CLICK 125\r\n30400 - K60S-T73",
@@ -109,126 +120,144 @@
         "EcmId": "0103070D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "CLICK 160\r\n30400 - K2SF-T01",
         "EcmId": "01046D0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "LEAD 125 4V\r\n30400 - K2TA-T02",
         "EcmId": "0104780D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "LEAD 125 4V 2025\r\n30400 - K2TG-T21",
         "EcmId": "0105950D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "PCX 150\r\n30400 - K36S-T31",
         "EcmId": "0102180D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "PCX 150\r\n30400 - K36F-T01",
         "EcmId": "0101990D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "PCX 150\r\n30400 - K97F-T01",
         "EcmId": "0102990D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "PCX 160 2023\r\n30400 - K1ZP-T51",
         "EcmId": "0105050D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "PCX 160 2023\r\n30400 - K1ZP-T71",
         "EcmId": "0105040D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "PCX 160 2025\r\n30400 - K1ZT-TF1",
         "EcmId": "0105B40D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "PCX 160 2025\r\n30400 - K1ZT-TF2",
         "EcmId": "0105B40D02",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "PCX 160 2025\r\n30400 - K1ZT-TC1",
         "EcmId": "0105B30D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "PCX-160-2021\r\n30400 - K1ZF-T01",
         "EcmId": "0103D00D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "PCX 160 2021\r\n30400 - K1ZF-T11",
         "EcmId": "0103CF0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "PCX-160-2026\r\n30400 - K1ZT-TC2",
         "EcmId": "0105B30D02",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "GIORNO 125\r\n30400 - K3MF-T01",
         "EcmId": "01052A0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "GIORNO 125\r\n30400 - K3MH-T71",
         "EcmId": "0106A70D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "MOOV 110\r\n30400 - K50A-T02",
         "EcmId": "0101D60D02",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "ZOOMER X\r\n38770 - K20J-T21",
@@ -242,98 +271,112 @@
         "EcmId": "0101C60D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "MSX 125\r\n38770 - K26-B02",
         "EcmId": "0102130D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "MSX 125\r\n38770 - K26-B13",
         "EcmId": "01000D0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "WAVE 110I\r\n38770 - K58-T81",
         "EcmId": "0102B90D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "WAVE 125I\r\n38770 - K73-T32",
         "EcmId": "0102580D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "WAVE 125I \r\n38770 - KYZ-T41",
         "EcmId": "0101B30D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "DREAM SUPERCLUB 110 I\r\n38770 - KZV-A61",
         "EcmId": "0101BA0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "CRF300L\r\n38770 - K1T-T01",
         "EcmId": "0104070D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "CRF300L 2023\r\n38770 - K1T-TA1",
         "EcmId": "0104C60D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "CRF300L 2025\r\n38770 - K1T-TM2",
         "EcmId": "0105D20D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "MONKEY 125\r\n38770 - K0G-902",
         "EcmId": "01030E0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "MONKEY 125\r\n38770 - K0F-T61",
         "EcmId": "01041F0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "MONKEY 125 2025\r\n38770 - K0F-TE1",
         "EcmId": "0105660D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "MONKEY 125\r\n38770 - K0F-T01",
         "EcmId": "0102CA0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "C 125\r\n38770 - K0G-T22",
@@ -347,21 +390,24 @@
         "EcmId": "0103F90D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "DAX 125\r\n38770 - K2W-T01",
         "EcmId": "0104540D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "CRF 250\r\n38770 - KZZ-J01",
         "EcmId": "0102360D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "CRF 250\r\n38770 - KZZ-L41",
@@ -382,35 +428,40 @@
         "EcmId": "0103EB0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "38770 - K26-C01",
         "EcmId": "0102570601",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "CBR 150R\r\n38770 - K94-T02",
         "EcmId": "0102A00D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "CBR 150R\r\n38770 - K45-TA1",
         "EcmId": "0103250D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "CBR 300\r\n38770 - K33-T53",
         "EcmId": "0101740D02",
         "StartOffset": "E0000",
         "ChecksumOffset": "B000",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 128
     },
     {
         "PartCode": "CBR 300\r\n38770 - K0A-T11",
@@ -431,84 +482,96 @@
         "EcmId": "01011A0D01",
         "StartOffset": "E0000",
         "ChecksumOffset": "B000",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 128
     },
     {
         "PartCode": "CRF 250\r\n38770 - KZZ-903",
         "EcmId": "01011A0D02",
         "StartOffset": "E0000",
         "ChecksumOffset": "B000",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 128
     },
     {
         "PartCode": "38770 - K33-951",
         "EcmId": "01019E0D01",
         "StartOffset": "E0000",
         "ChecksumOffset": "B000",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 128
     },
     {
         "PartCode": "FORZA 300\r\n 38770 - K04-701",
         "EcmId": "0101290D01",
         "StartOffset": "E0000",
         "ChecksumOffset": "B000",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 128
     },
     {
         "PartCode": "FORZA 300\r\n 38770 - K0B-T01",
         "EcmId": "0102E50D01",
         "StartOffset": "0",
         "ChecksumOffset": "7FFF8",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 512
     },
     {
         "PartCode": "CL300\r\n 38770 - K3S-TA2",
         "EcmId": "0104910D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "REBEL 300\r\n 38770 - K87-T52",
         "EcmId": "01025A0D01",
         "StartOffset": "E0000",
         "ChecksumOffset": "B000",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 128
     },
     {
         "PartCode": "REBEL 300\r\n 38770 - K87-T81",
         "EcmId": "0103780D01",
         "StartOffset": "E0000",
         "ChecksumOffset": "B000",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 128
     },
     {
         "PartCode": "WAVE 110I S3\r\n 38770 - KWW-601",
         "EcmId": "0100B20D01",
         "StartOffset": "0",
         "ChecksumOffset": "7FEF",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 56
     },
     {
         "PartCode": "WAVE 125I S3\r\n 38770 - KYL-T01",
         "EcmId": "0100DB0D01",
         "StartOffset": "0",
         "ChecksumOffset": "7FEF",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 56
     },
     {
         "PartCode": "SCOOPY 110I S3\r\n 38770 - KYT-901",
         "EcmId": "0100890D01",
         "StartOffset": "0",
         "ChecksumOffset": "7FEF",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 56
     },
     {
         "PartCode": "CBR 250R S3\r\n 38770 - KYJ-901",
         "EcmId": "0100B80D01",
         "StartOffset": "0",
         "ChecksumOffset": "DFEF",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 56
     },
     {
         "PartCode": "WAVE 125I S3\r\n 38770 - KWB-601",
@@ -529,77 +592,88 @@
         "EcmId": "01033E0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "SCOOPY I\r\n30400 - K2F-T01",
         "EcmId": "0104140D01",
         "StartOffset": "0",
         "ChecksumOffset": "3FFF8",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "SCOOPY I\r\n30400 - K2F-T21",
         "EcmId": "0104080F01",
         "StartOffset": "0",
         "ChecksumOffset": "3FFF8",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "SCOOPY I\r\n30400 - K2F-T81",
         "EcmId": "0104F30D01",
         "StartOffset": "0",
         "ChecksumOffset": "3FFF8",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "SCOOPY I\r\n30400 - K2F-T91",
         "EcmId": "0104F20D01",
         "StartOffset": "0",
         "ChecksumOffset": "3FFF8",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "SCOOPY I\r\n30400 - K2F-TB1",
         "EcmId": "0104F50D01",
         "StartOffset": "0",
         "ChecksumOffset": "3FFF8",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "SCOOPY I\r\n30400 - K2F-TD1",
         "EcmId": "0105AB0D02",
         "StartOffset": "0",
         "ChecksumOffset": "3FFF8",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "SCOOPY I\r\n30400 - K2F-TF1",
         "EcmId": "0105AA0D02",
         "StartOffset": "0",
         "ChecksumOffset": "3FFF8",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "SCOOPPY I\r\n30400 - K93-T01",
         "EcmId": "0102810D01",
         "StartOffset": "0",
         "ChecksumOffset": "3FFF8",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "SCOOPPY I\r\n30400 - K93-T21",
         "EcmId": "0102800D01",
         "StartOffset": "0",
         "ChecksumOffset": "3FFF8",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "WAVE 110I \r\n38770 - K03-T61",
         "EcmId": "0101610D01",
         "StartOffset": "4000",
         "ChecksumOffset": "9FEF",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 48
     },
     {
         "PartCode": "SCOOPPY I \r\n38770 - K16-901",
@@ -620,21 +694,24 @@
         "EcmId": "0101270D01",
         "StartOffset": "4000",
         "ChecksumOffset": "9FEF",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 48
     },
     {
         "PartCode": "MSX 125 \r\n38770 - K26-901",
         "EcmId": "0101350D01",
         "StartOffset": "4000",
         "ChecksumOffset": "9FEF",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 48
     },
     {
         "PartCode": "MSX 125 \r\n38770 - K26-911",
         "EcmId": "0101350501",
         "StartOffset": "4000",
         "ChecksumOffset": "9FEF",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 48
     },
     {
         "PartCode": "MSX 125 \r\n38770 - K26-921",
@@ -662,14 +739,16 @@
         "EcmId": "0100CE0D01",
         "StartOffset": "4000",
         "ChecksumOffset": "9FEF",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 48
     },
     {
         "PartCode": "WAVE 110I \r\n38770 - KWW-643",
         "EcmId": "0100CE0D02",
         "StartOffset": "4000",
         "ChecksumOffset": "9FEF",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 48
     },
     {
         "PartCode": "WAVE 110I \r\n38770 - KWW-C52",
@@ -690,42 +769,48 @@
         "EcmId": "01010E0D01",
         "StartOffset": "4000",
         "ChecksumOffset": "9FEF",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 48
     },
     {
         "PartCode": "WAVE 110I 2024 \r\n38770 - K2J-TH1",
         "EcmId": "0105550D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "WAVE 110I 2021 \r\n38770 - K2J-T01",
         "EcmId": "01040F0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "WAVE 110I 2026 \r\n38770 - K2J-TQ1",
         "EcmId": "01062C0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "DREAM 110I 2024 \r\n38770 - K1M-T31",
         "EcmId": "0105260D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "DREAM 110I 2024 \r\n38770 - K1M-T01",
         "EcmId": "0103FA0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "WAVE 110I \r\n38770 - K58-TC1",
@@ -739,70 +824,80 @@
         "EcmId": "01034C0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "WAVE 125I \r\n38770 - K76-T62",
         "EcmId": "0102B50D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "CT 125I \r\n38770 - K2E-T11",
         "EcmId": "01047E0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "CT 125I \r\n38770 - K2E-T31",
         "EcmId": "0105EB0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "CT 125I \r\n38770 - K2E-T32",
         "EcmId": "0105EB0D02",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "WAVE 110I \r\n38770 - K03-H01",
         "EcmId": "0101880D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "WAVE 125I 2024 \r\n38770 - K73-M62",
         "EcmId": "01034F1801",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "WAVE 125I 2024 \r\n38770 - K3F-T01",
         "EcmId": "01047B0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "WAVE 125I 2024 \r\n38770 - K3F-T41",
         "EcmId": "0106270D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "WAVE 125I 2024 \r\n38770 - K3F-T61",
         "EcmId": "0106280D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "DREAM 125I 2025\r\n38770 - K1M-T41",
@@ -823,7 +918,8 @@
         "EcmId": "01048F0D01",
         "StartOffset": "E0000",
         "ChecksumOffset": "B000",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 128
     },
     {
         "PartCode": "SCOOPPY I 110 \r\n38770 - K16-B61",
@@ -837,218 +933,199 @@
         "EcmId": "0101DD0D01",
         "StartOffset": "0",
         "ChecksumOffset": "3FFF8",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "CBR650 \r\n38770 - MKN-T11",
         "EcmId": "01031A0D01",
         "StartOffset": "0",
         "ChecksumOffset": "7FFF8",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 512
     },
     {
         "PartCode": "FORZA350 \r\n38770 - K1B-T01",
         "EcmId": "0103BC0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 768
     },
     {
         "PartCode": "FORZA350 \r\n38770 - K1B-T02",
         "EcmId": "0103BC0D02",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 768
     },
     {
         "PartCode": "FORZA350 \r\n38770 - K1B-T21",
         "EcmId": "0104B50D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 768
     },
     {
         "PartCode": "FORZA350 \r\n38770 - K1B-T61",
         "EcmId": "01058F0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 768
     },
     {
         "PartCode": "ADV350 \r\n38770 - K2L-T01",
         "EcmId": "0104350D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 768
     },
     {
         "PartCode": "ADV350 \r\n38770 - K2L-T21",
         "EcmId": "0105070D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 768
     },
     {
         "PartCode": "ADV350 \r\n38770 - K2L-T62",
         "EcmId": "0105EE0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 768
     },
     {
         "PartCode": "CBR650 E-CLUTCH \r\n38770 - MKY-TE3",
         "EcmId": "0105880D05",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 1024
     },
     {
         "PartCode": "CBR500X \r\n38770 - MKP-TQ2",
         "EcmId": "01042E0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 1024
     },
     {
         "PartCode": "CBR500X \r\n38770 - MKP-T81",
         "EcmId": "01032F0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 1024
     },
     {
         "PartCode": "CBR500X \r\n38770 - MKP-T41",
         "EcmId": "01032E0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 1024
     },
     {
         "PartCode": "CBR650F \r\n38770 - MKN-T11",
         "EcmId": "01031A0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 512
     },
     {
         "PartCode": "CBR650F \r\n38770 - MKN-HB2",
         "EcmId": "0103BE0E01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 512
     },
     {
         "PartCode": "CBR500R \r\n38770 - MJW-T11",
         "EcmId": "0101DD0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "CBR650R \r\n38770 - MJE-TB1",
         "EcmId": "01027D0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 512
     },
     {
         "PartCode": "CBR650R \r\n38770 - MJE-T52",
         "EcmId": "01019C0D02",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "CBR650R \r\n38770 - MJE-T15",
         "EcmId": "01014E0D03",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "CBR650R \r\n38770 - MJE-G52",
         "EcmId": "01019C1201",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "CBR650R \r\n38770 - MFN-F01",
         "EcmId": "01006A0301",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "CBR650R \r\n38770 - MFN-D01",
         "EcmId": "01006A0101",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "CBR1000R \r\n38770 - MJE-D41",
         "EcmId": "01019C0101",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "CBR600R \r\n38770 - MFJ-J42",
         "EcmId": "01007C0601",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 256
     },
-     {
+    {
         "PartCode": "NX500 \r\n38770 - MLR-T81",
         "EcmId": "0105250D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 1024
     }
-    
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
