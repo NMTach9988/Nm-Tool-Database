@@ -36,7 +36,8 @@
         "EcmId": "00101BD0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "CLICK_125_2023\r\n30400 - K2VH - T11",
@@ -114,7 +115,8 @@
         "EcmId": "01030B0F03",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 384
     },
     {
         "PartCode": "CLICK 150\r\n30400 - K59K-T11",
@@ -265,7 +267,8 @@
         "EcmId": "0101FF0D01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "ZOOMER X\r\n38770 - K20-T01",
@@ -415,7 +418,8 @@
         "EcmId": "0102360F11",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "CRF 250\r\n38770 - KZZ-L81",
@@ -469,7 +473,8 @@
         "EcmId": "0102B70D02",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 96
     },
     {
         "PartCode": "CRF 250\r\n38770 - KZZ-901",
@@ -905,7 +910,8 @@
         "EcmId": "01062D0D01",
         "StartOffset": "8000",
         "ChecksumOffset": "0",
-        "Category": "Keihin"
+        "Category": "Keihin",
+        "BinSizeKB": 64
     },
     {
         "PartCode": "WAVE 125I S3 \r\n38770 - KPH-702",
