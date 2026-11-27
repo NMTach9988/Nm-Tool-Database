@@ -4,7 +4,8 @@
         "EcmId": "01046B0F01",
         "StartOffset": "auto",
         "ChecksumOffset": "auto",
-        "Category": "Shindengen"
+        "Category": "Shindengen",
+        "BinSizeKB": 256
     },
     {
         "PartCode": "CLICK_125\r\n30400 - KZRN - C11",
